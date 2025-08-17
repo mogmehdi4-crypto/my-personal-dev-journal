@@ -23,7 +23,7 @@ This repository is organized into the following sections:
 
 While this repository is a personal resource, you can use it for inspiration:
 
-1.  **Browse:** If you're looking for a specific code snippet or a solution to a problem, feel free to browse through the different folderss
+1.  **Browse:** If you're looking for a specific code snippet or a solution to a problem, feel free to browse through the different folders.
 2.  **Get Inspired:** My mini-projects might give you ideas for your own personal projects.
 3.  **Follow Along:** If you're interested in my content, consider "starring" this repository or following me to stay updated on new additions.
 
