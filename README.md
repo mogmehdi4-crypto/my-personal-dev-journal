@@ -15,7 +15,7 @@ This repository is organized into the following sections:
 * **`snippets/`**: This folder contains small, useful code snippets created for solving everyday problems or recalling specific commands. Each file is dedicated to a particular programming language or topic.
 * **`learning-challenges/`**: In this section, you'll find my solutions to coding challenges from platforms like LeetCode, HackerRank, or FreeCodeCamp. Each folder is named after the corresponding challenge or platform.
 * **`mini-projects/`**: This folder houses my small, independent projects, each with a specific goal. These projects allow me to experiment with new technologies in a practical environment. Each project resides in its own dedicated folder.
-* **`notes-and-ideas/`**: This section is for my notes and ideas that haven't yet been turned into code. This is where I organize my thoughts and plan my future coding endeavors.
+* **`notes-and-ideas/`**: This section is for my notes and ideas that haven't yet been turned into code. This is where I organize my thoughts and plan my future coding endeavors.great
 
 ---
 
