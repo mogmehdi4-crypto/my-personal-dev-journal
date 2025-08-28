@@ -26,7 +26,7 @@ While this repository is a personal resource, you can use it for inspiration:
 2.  **Get Inspired:** My mini-projects might give you ideas for your own personal projects.
 3.  **Follow Along:** If you're interested in my content, consider "starring" this repository or following me to stay updated on new additions.
 
-Thanks for stopping by!
+Thanks for stopping by!.
 
 
 
