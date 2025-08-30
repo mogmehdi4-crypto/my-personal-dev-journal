@@ -8,7 +8,7 @@ This repository is my digital notebook for logging ideas, small projects, daily 
 ____
 ### 📂 Repositor Structure
 
-worry
+
 This repository is organized into the following sections:
 
 * **`snippets/`**: This folder contains small, useful code snippets created for solving everyday problems or recalling specific commands. Each file is dedicated to a particular programming language or topic.
