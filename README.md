@@ -8,7 +8,7 @@ This repository is my digital notebook for logging ideas, small projects, daily 
 ____
 ### 📂 Repositor Structure
 
-
+well
 
 
 This repository is organized into the following sections:
