@@ -9,7 +9,7 @@ ____
 ### 📂 Repositor Structure
 
 
-good 
+
 This repository is organized into the following sections:
 
 * **`snippets/`**: This folder contains small, useful code snippets created for solving everyday problems or recalling specific commands. Each file is dedicated to a particular programming language or topic.
