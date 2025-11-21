@@ -16,7 +16,7 @@ This repository is organized into the following sections:
 * **`notes-and-ideas/`**: This section is for my notes and ideas that haven't yet been turned into code. This is where I organize my thoughts and plan my future coding endeavors.
   
 ---
-
+gud
 ### 💡 How to Use This Repository
 
 While this repository is a personal resource, you can use it for inspiration:
