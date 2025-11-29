@@ -7,7 +7,7 @@ remove ball
 Thirepository is my digital notebook for logging ideas, small projects, daily exercises, and solutions I find for various coding challenges. It's a dynamic space for continuous learning and documenting my professional gro
 ____
 ### 📂 Repositor Structure
-
+for 
 This repository is organized into the following sections:
 
 * **`snippets/`**: This folder contains small, useful code snippets created for solving everyday problems or recalling specific commands. Each file is dedicated to a particular programming language or topic.
