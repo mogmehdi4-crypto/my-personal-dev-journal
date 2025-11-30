@@ -16,7 +16,7 @@ This repository is organized into the following sections:
 * **`notes-and-ideas/`**: This section is for my notes and ideas that haven't yet been turned into code. This is where I organize my thoughts and plan my future coding endeavors.
   
 ---
-
+what
 
 ### 💡 How to Use This Repository
 
