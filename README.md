@@ -1,8 +1,8 @@
 # my-personal-dev-journal
 This repository is my personal coding notebook. Here, I log my ideas, small projects, daily exercises, and solutions I find for various problems. This is a space for continuous growth and learning, helping me to document my progress.
 # ✍️ My Personal Dev Journal
- good 
-Welcome to my personal coding journey! 👋
+  
+Welcom to my personal coding journey! 👋
 remove ball
 Thirepository is my digital notebook for logging ideas, small projects, daily exercises, and solutions I find for various coding challenges. It's a dynamic space for continuous learning and documenting my professional gro
 ____
