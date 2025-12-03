@@ -17,7 +17,7 @@ This repository is organized into the following sections:
   
 ---
 
-well
+
 ### 💡 How to Use This Repository
 
 While this repository is a personal resource, you can use it for inspiration:
