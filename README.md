@@ -7,7 +7,8 @@ Welcom to my personal coding journey! 👋
 Thirepository is my digital notebook for logging ideas, small projects, daily exercises, and solutions I find for various coding challenges. It's a dynamic space for continuous learning and documenting my professional gro
 ____
 ### 📂 Repositor Structure
-boost
+b
+
 This repository is organized into the following sections:
 
 * **`snippets/`**: This folder contains small, useful code snippets created for solving everyday problems or recalling specific commands. Each file is dedicated to a particular programming language or topic.
@@ -18,8 +19,7 @@ This repository is organized into the following sections:
 ---
 
 
-### 💡 How to Use This Repository
-
+### 💡 How to Use This Repositor
 While this repository is a personal resource, you can use it for inspiration:
 
 1.  **Browse:** If you're looking for a specific code snippet or a solution to a problem, feel free to browse through the different folders.
